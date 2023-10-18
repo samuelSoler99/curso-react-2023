@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/01-react-twitter-component" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02-react-mouse-follower" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03-react-tres-en-raya" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04-react-prueba-tecnica-cats" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/05-react-prueba-tecnica-peliculas" vcs="Git" />
+  </component>
+</project>
